@@ -8,7 +8,7 @@ module.exports = async function (context, myBlob) {
     
     //Source Image Uri
     var imageUri = context.bindingData.uri;
-    context.log(imageUri);
+    context.log("Image Uri: " + imageUri);
     
     //Split https:// from url
     var imageUriArray = imageUri.split("//");
