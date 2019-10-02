@@ -1,0 +1,21 @@
+{
+  "name": "azure-demo-function-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "azure-cognitiveservices-vision": "^1.0.0-preview",
+    "azure-storage": "^2.10.3",
+    "moment": "^2.21.0",
+    "ms-rest-azure": "^2.5.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Gaskill",
+  "license": "MIT",
+  "description": ""
+}
