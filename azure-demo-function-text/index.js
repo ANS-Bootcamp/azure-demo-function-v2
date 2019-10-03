@@ -1,4 +1,6 @@
 module.exports = async function (context, myBlob) {
+  //Log Started
+  context.log("Text Processing Function Started!!!!");
 
   //Import Modules
   var Vision = require('azure-cognitiveservices-vision');
