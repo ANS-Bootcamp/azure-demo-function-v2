@@ -9,7 +9,7 @@
     "async": "^2.6.0",
     "azure-cognitiveservices-vision": "^2.0.0",
     "azure-storage": "^2.10.3",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "ms-rest-azure": "^3.0.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
